@@ -1,2 +1,2 @@
 # MapHub
-A 3D mapping system using drones and image capturing
+A 3D mapping solution using drones and image capturing
